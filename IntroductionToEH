@@ -1,0 +1,40 @@
+CEH - Threat Attack Vectors
+
+Resources: Mitre Att&ck
+
+Malware Attacks
+1. Virus
+2. Worms
+3. Spyware
+4. Trojans
+5. Backdoor
+6. Ransomware
+
+Attack Phases
+Foot printing
+Scanning
+Enumeration
+Vulnerability Analysis
+
+Penetration Testing Execution Standard PTES Execution Standard
+OWASP Testing guide
+
+
+Attack Types:
+1. Operating System Attacks
+    - Buffer overflow
+    - Software Defects
+    - Protocol Implementations
+    - Autnetication schemas
+2. Application Attacks
+    - Buffer Overflow
+    - Bugs
+    - SQL injection
+    - XSS
+    - DOS
+    - Man in the middle
+3. Shrinkwrap code - Brand new software not tested
+    - Default passwords
+    - Missing Patches
+    
+    
